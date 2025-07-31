@@ -73,8 +73,8 @@ Resets the setup completely.
 ## Quick Recovery Steps
 1. Clone this repository:
 ```bash
-git clone https://github.com/Ofir-Evgi/Dev-Tools---Final-Project.git
-cd Dev-Tools---Final-Project
+git clone https://github.com/LinaFlat/Final-Project-Dev-Tools.git
+cd Final-Project-Dev-Tools
 ```
 2. Make scripts executable:
 ```bash
